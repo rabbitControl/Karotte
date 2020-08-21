@@ -1,2 +1,2 @@
 # Karotte
-An [RCP](https://rabbitcontrol.github.io/RCP) client created with [vvvv](http://visualprogramming.net).
+An [RCP](https://rabbitcontrol.github.io) client created with [vvvv](http://visualprogramming.net).
